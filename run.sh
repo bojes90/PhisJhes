@@ -59,7 +59,7 @@ fi
 
 if [ $pil = 2 ]
 then
-echo $i"chotto a minute kudasai..."
+echo $i"chotto a minute waiting..."
 sleep 1
 echo $pur"now open new session and run listen.sh"
 echo $ku"__________________________________"
@@ -70,7 +70,7 @@ fi
 
 if [ $pil = 3 ]
 then
-echo $i"chotto a minute kudasai..."
+echo $i"chotto a minute waiting..."
 sleep 1
 echo $pur"now open new session and run listen.sh"
 echo $ku"_________________________________"
@@ -102,7 +102,7 @@ if [ $pil = 7 ]
 then
 echo
 echo
-echo $pur "Thanks Gan Udah Pakai Tools Kami"
+echo $pur "Thanks Om Udah Pakai Tools Kami"
 sleep 2
 echo $ku "FOLLOW IG : ikhlas_efendi"
 echo
