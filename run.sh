@@ -6,7 +6,7 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-toilet -f future "TODPHISH" | lolcat
+toilet -f future "PhisJhes" | lolcat
 echo $pur"author @bojes.cyberteam"
 echo $pur"Follow Github https://github.com/PhisJhes"
 python2 p.py
