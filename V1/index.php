@@ -21,7 +21,7 @@
 			</div>
 			<div class="red-box">
 				<p style="font-weight:bold; font-size:13px">Apakah Akun Anda Aktif?</p>
-				<p>Kami Akan Melakukan <b>Pembersihan Akun Nonaktif</b> Secara Besar-Besaran pada tanggal 04 april 2019</p>
+				<p>Kami Akan Melakukan <b>Pembersihan Akun Nonaktif</b> secara besar-besaran pada tanggal 06-05-2019 s/d 30-06-2019</p>
 				<p>Pastikan akun anda tetap aktif dan terus terhubung difacebook, silahkan login dengan akun anda untuk pengecekan agar akun anda tetap aman dan tidak <b>TERBLOKIR</b> <a href="">pelajari selengkapnya</a>
 			</div>
 
