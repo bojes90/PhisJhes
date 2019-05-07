@@ -28,5 +28,5 @@ fi
 
 if [ $pil = 2 ]
 then
-ssh -R facebook.server.net:80:localhost:8080 serveo.net
+ssh -R facebook.serveo.net:80:localhost:8080 serveo.net
 fi
