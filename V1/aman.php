@@ -7,6 +7,6 @@
 <script>alert('Facebook ANDA terdaftar AKTIF dan masuk kedalam WhiteList, Terima kasih telah memberitahu kami, Sekarang Facebook Kamu Tidak Akan Kami Blokir');</script>
 <?php
 ?>
-thanks
+Thank You
 </body>
 </html>	
