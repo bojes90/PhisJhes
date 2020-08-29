@@ -104,7 +104,7 @@ echo
 echo
 echo $pur "Thanks Om Udah Pakai Tools Kami"
 sleep 2
-echo $ku "FOLLOW IG : ikhlas_efendi"
+echo $ku "SEMOGA SUKSES"
 echo
 sleep 1
 exit
